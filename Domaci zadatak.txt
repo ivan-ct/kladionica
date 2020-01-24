@@ -1,0 +1,4 @@
+1) Obojiti dobitne utakmice u tabeli u zeleno
+2) Obojiti gubitne utakmice u tabeli u crveno
+3) Izracunati ukupan gubitak i dobitak u Jumbotronu
+4) Status tiketa upisati i u alert polje
